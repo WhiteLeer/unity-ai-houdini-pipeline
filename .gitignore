@@ -1,0 +1,43 @@
+# Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# Visual Studio cache/options directory
+.vs/
+
+# Rider
+.idea/
+*.sln.iml
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# API Keys (重要！不要提交API密钥)
+**/apikeys.txt
+**/secrets.txt
+**/.env
+
+# Unity Meta files
+*.meta
+
+# Houdini
+*.hip
+*.hipnc
+*.hiplc
+*.hiplock
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
